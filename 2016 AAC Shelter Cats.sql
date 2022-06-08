@@ -14,7 +14,7 @@ ALTER TABLE cat_intake
 SELECT * FROM cat_intake;
 
 /*
-Put the dates in which the cats were received at a shelter in order.
+Put the dates in which the cats were received at ATX shelters in order.
 */ 
 SELECT * FROM cat_intake
 	ORDER BY monthyear ASC;
