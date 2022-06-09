@@ -1,5 +1,7 @@
-/*Source:
-	https://www.kaggle.com/code/residentmario/bagging-with-animal-shelter-outcomes/data
+/*
+Source: https://www.kaggle.com/code/residentmario/bagging-with-animal-shelter-outcomes/data
+
+Tableau visualization for data can be viewed at: https://public.tableau.com/app/profile/ana.wiesse/viz/2016AACShelterCatData/Dashboard1
 */
 
 SELECT * FROM cat_intake;
